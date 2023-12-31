@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PlanetsApp</string>
+    <string name="title">Planets with their no. of Moons.</string>
+</resources>
